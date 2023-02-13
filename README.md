@@ -5,7 +5,8 @@ Original folder contains the original notebook, with jitted functions and plot, 
 Benchmark folder contains the benchmark notebook, and device is specified in notebook's name.
 
 ## **Equation**
-Equation used for this lab is:
+Equation used for this lab is:  
+
 $$
 f(x) = 2x^{2} cos(x) -5x
 $$
